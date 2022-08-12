@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bagasdal
-- 👀 I’m interested in IoT and Data analysis
-- 🌱 I’m currently learning SQL but I also learning kotlin and swift
-- 💞️ I’m looking to collaborate on Interesting IoT Project
+- 👀 I’m interested in IoT and Data science
+- 🌱 I’m currently learning SQL and data science but I also learning kotlin and swift
+- 💞️ I’m looking to collaborate on Interesting IoT Project and data science project
 - 📫 How to reach me daliyantob@yahoo.co.id
 
 <!---
